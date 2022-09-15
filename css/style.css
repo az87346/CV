@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 5em;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5em;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #64bfbf;
+}
+hr { 
+    border-top: dotted #c3c3c3 12px;
+    border-bottom: none;
+    width: 15%;
+    margin: 130px auto 130px auto;
+}
+.cloud1 {
+    position: absolute;
+    top: 30px;
+    right: 270px;
+}
+.cloud2 {
+    position: absolute;
+    bottom: 250px;
+    left: 230px;
+}
+.citiscape {
+    width: 100%;
+}
+.img1{ 
+    border-radius: 100%;
+}
+.img2 {
+    width: 50%;
+}
+.img3 {
+    width: 50%;
+}
+.img4 {
+    width: 50%;
+}
+.top {
+    position: relative;
+    padding: 200px 0 0 0;
+    background-color: #EAF6F6;
+}
+.middle {
+    padding: 100px;
+}
+.bottom {
+    background-color: #EAF6F6;
+    border-top-style: solid;
+    border-color: black;
+    font-weight: lighter;
+}
+.row{ 
+    width: 50%;
+    margin: 50px auto;
+}
+.column {
+    display: inline-block;
+}
+.left {
+    float: left;
+    width: 50%;
+}
+.right {
+    width: 50%;
+}
+a:link {
+    text-decoration: none;
+    color: blueviolet;
+}
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    text-decoration: underline;
+    color: blueviolet;
+}
+a:active {
+    text-decoration: none;
+    color: blueviolet;
+}
+ul li {
+    list-style-type: none;
+}
+dt {
+    display: inline-block;
+}
+.button {
+    padding: 10px;
+    margin: 0 0 5px 0;
+    background-color: #66BFBF;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.conrow {
+    width: 25%;
+    margin: 50px auto;
+}
